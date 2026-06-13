@@ -9,7 +9,7 @@ Database Management in writing optimized SQL queries,handling relational databas
 Stastical Programming in Writing logical code in Python and Javascript for data manipulation and alogirithm logic
 ## TECHNICAL TOOLKIT 
 Languages:Python,Javascript,c,SQL,HTML/CSS
-Framesworks&Databases:Bootsrap,SQL
+Framesworks & Databases:Bootsrap,SQL
 Core Domains:Data Structure & Alogirithm,DBMS,Computer Networks
 ## CERTIFICATIONS
  IBM SKILLS BUILD-Artificial Intelligence Fundamental,Microsoft Power BI Basics certificate
