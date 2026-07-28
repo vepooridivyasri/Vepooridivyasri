@@ -26,5 +26,5 @@ B.TECH in Computer Science and Engineering|Sri Chaitanya Technical Campus(CGPA:8
  .IBM SKILLS BUILD-Artificial Intelligence Fundamentals
  .Microsoft Power BI Basics certificate
  
-🌐Connect with me via linkedin[https://limkedin.com/in/divya-sri-vepoori-694253349        email at divyasrivepoori@gmail.com 
-   github at github.com/vepooridivyasri
+🌐Connect with me via linkedin[https://linkedin.com/in/divya-sri-vepoori-694253349                           email at divyasrivepoori@gmail.com 
+github at github.com/vepooridivyasri
